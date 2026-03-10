@@ -1,0 +1,9 @@
+Project Name: "Sentinel-QA: Autonomous Crash & Ad-Health Diagnostic Engine"
+
+The Goal: Build an "Agentic" system that monitors 1,000,000 logs to find:
+
+Technical Fragility: Identify if a new version is causing high Crashes/ANRs on specific devices or OS versions.
+
+Ad-Revenue Leaks: Detect "Ad-Deadlocks" where the game requests an ad, but the player doesn't see one (meaning you are losing money).
+
+Level-Specific Friction: Find levels where the "Ad-to-Level" ratio is broken, causing players to quit.
